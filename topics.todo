@@ -1,0 +1,17 @@
+
+- Introduction
+- Functions in groovy
+- Functions as values
+- Closures
+	- One arg, no arg, multiple args
+	- invoking closure
+	- converting a function to closure
+	
+- Higher order functions
+	- closures as arguments
+	- Command pattern
+	- return closures
+	
+- Currying
+- Iteration or Recursion 
+- Map Reduce
