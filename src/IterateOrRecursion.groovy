@@ -14,6 +14,7 @@ sum = { head, tail ->
 println(sum(numbers.head(), numbers.tail()))
 
 
-println numbers.inject(0, { s, item ->
+println numbers.inject(0) { s, item ->
 	s  + item
-})
+}
+
